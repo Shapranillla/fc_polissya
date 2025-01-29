@@ -3,7 +3,13 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
     font-size: 20px;
     color: black;
-    background: #00ab0e url("img/depositphotos_84188754-stock-photo-green-grass-texture.jpg") repeat 50% 0;
+    background: #00ab0e url("img/bg.jpg") repeat 50% 0;
+}
+
+#higlights {
+    background: rgba(0, 200, 0, 0.1);
+    padding: 20px;
+    max-width: 20px 0;
 }
 h1{
     color: yellow;
@@ -18,3 +24,7 @@ img{
     width: 100px;
 }
 
+footer {
+    background: #000;
+    color: #fff;
+}
